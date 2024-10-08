@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AdminPC\\source\\repos\\lab_5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F73B4732-3D91-497E-A884-B303F80D4C52}|lab_5.3\\lab_5.3.vcxproj|C:\\Users\\AdminPC\\source\\repos\\lab_5.3\\lab_5.3\\5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F73B4732-3D91-497E-A884-B303F80D4C52}|lab_5.3\\lab_5.3.vcxproj|solutionrelative:lab_5.3\\5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3241487E-658F-49B3-B5C9-193284E4B4F2}|unittest\\unittest.vcxproj|C:\\Users\\AdminPC\\source\\repos\\lab_5.3\\unittest\\unittest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3241487E-658F-49B3-B5C9-193284E4B4F2}|unittest\\unittest.vcxproj|solutionrelative:unittest\\unittest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "unittest.cpp",
+              "DocumentMoniker": "C:\\Users\\AdminPC\\source\\repos\\lab_5.3\\unittest\\unittest.cpp",
+              "RelativeDocumentMoniker": "unittest\\unittest.cpp",
+              "ToolTip": "C:\\Users\\AdminPC\\source\\repos\\lab_5.3\\unittest\\unittest.cpp",
+              "RelativeToolTip": "unittest\\unittest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T10:32:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.3.cpp",
+              "DocumentMoniker": "C:\\Users\\AdminPC\\source\\repos\\lab_5.3\\lab_5.3\\5.3.cpp",
+              "RelativeDocumentMoniker": "lab_5.3\\5.3.cpp",
+              "ToolTip": "C:\\Users\\AdminPC\\source\\repos\\lab_5.3\\lab_5.3\\5.3.cpp",
+              "RelativeToolTip": "lab_5.3\\5.3.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T10:27:05.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
